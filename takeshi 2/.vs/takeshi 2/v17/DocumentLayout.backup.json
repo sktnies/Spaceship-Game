@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isadora.montagna\\takeshi 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3495CAA-B151-41B9-641B-2C4980A68D01}|Assembly-CSharp.csproj|c:\\users\\isadora.montagna\\takeshi 2\\assets\\scripts\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3495CAA-B151-41B9-641B-2C4980A68D01}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3495CAA-B151-41B9-641B-2C4980A68D01}|Assembly-CSharp.csproj|c:\\users\\isadora.montagna\\takeshi 2\\assets\\scripts\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3495CAA-B151-41B9-641B-2C4980A68D01}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3495CAA-B151-41B9-641B-2C4980A68D01}|Assembly-CSharp.csproj|c:\\users\\isadora.montagna\\takeshi 2\\assets\\scripts\\asteroidecomportamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3495CAA-B151-41B9-641B-2C4980A68D01}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\asteroidecomportamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3495CAA-B151-41B9-641B-2C4980A68D01}|Assembly-CSharp.csproj|c:\\users\\isadora.montagna\\takeshi 2\\assets\\tiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3495CAA-B151-41B9-641B-2C4980A68D01}|Assembly-CSharp.csproj|solutionrelative:assets\\tiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3495CAA-B151-41B9-641B-2C4980A68D01}|Assembly-CSharp.csproj|c:\\users\\isadora.montagna\\takeshi 2\\assets\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3495CAA-B151-41B9-641B-2C4980A68D01}|Assembly-CSharp.csproj|solutionrelative:assets\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3495CAA-B151-41B9-641B-2C4980A68D01}|Assembly-CSharp.csproj|c:\\users\\isadora.montagna\\takeshi 2\\assets\\scripts\\geradorasteroides.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3495CAA-B151-41B9-641B-2C4980A68D01}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\geradorasteroides.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bala.cs",
+              "DocumentMoniker": "C:\\Users\\isadora.montagna\\takeshi 2\\Assets\\Scripts\\Bala.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bala.cs",
+              "ToolTip": "C:\\Users\\isadora.montagna\\takeshi 2\\Assets\\Scripts\\Bala.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:04:16.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GeradorAsteroides.cs",
+              "DocumentMoniker": "C:\\Users\\isadora.montagna\\takeshi 2\\Assets\\Scripts\\GeradorAsteroides.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GeradorAsteroides.cs",
+              "ToolTip": "C:\\Users\\isadora.montagna\\takeshi 2\\Assets\\Scripts\\GeradorAsteroides.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GeradorAsteroides.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:52:23.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jogador.cs",
+              "DocumentMoniker": "C:\\Users\\isadora.montagna\\takeshi 2\\Assets\\Scripts\\Jogador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Jogador.cs",
+              "ToolTip": "C:\\Users\\isadora.montagna\\takeshi 2\\Assets\\Scripts\\Jogador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Jogador.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwD4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:49:14.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsteroideComportamento.cs",
+              "DocumentMoniker": "C:\\Users\\isadora.montagna\\takeshi 2\\Assets\\Scripts\\AsteroideComportamento.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AsteroideComportamento.cs",
+              "ToolTip": "C:\\Users\\isadora.montagna\\takeshi 2\\Assets\\Scripts\\AsteroideComportamento.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AsteroideComportamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:42:33.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\isadora.montagna\\takeshi 2\\Assets\\triangulo.cs",
+              "RelativeDocumentMoniker": "Assets\\triangulo.cs",
+              "ToolTip": "C:\\Users\\isadora.montagna\\takeshi 2\\Assets\\triangulo.cs",
+              "RelativeToolTip": "Assets\\triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:23:09.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tiro.cs",
+              "DocumentMoniker": "C:\\Users\\isadora.montagna\\takeshi 2\\Assets\\tiro.cs",
+              "RelativeDocumentMoniker": "Assets\\tiro.cs",
+              "ToolTip": "C:\\Users\\isadora.montagna\\takeshi 2\\Assets\\tiro.cs",
+              "RelativeToolTip": "Assets\\tiro.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAABQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:18:15.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
